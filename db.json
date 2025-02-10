@@ -1,3 +1,27 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "role": "user",
+      "content": " tell me the weather",
+      "id": "56c47adc-8438-4e84-8ea7-8993a65346c3",
+      "createdAt": "2025-02-10T04:48:34.946Z"
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "call_h2jofY1jBytKHYVrZyONpsG7",
+          "type": "function",
+          "function": {
+            "name": "get_weather",
+            "arguments": "{\"reasoning\":\"The user has requested information about the weather.\"}"
+          }
+        }
+      ],
+      "refusal": null,
+      "id": "fb76e532-1e70-4218-bd1e-4168220bd218",
+      "createdAt": "2025-02-10T04:48:38.213Z"
+    }
+  ]
 }
