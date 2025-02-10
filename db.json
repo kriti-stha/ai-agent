@@ -1,3 +1,43 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello how r u",
+      "id": "f9408e02-2db1-47a3-9814-d33f120f0213",
+      "createdAt": "2025-02-10T03:36:47.654Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! I'm just a program, but I'm here and ready to help you. How can I assist you today?",
+      "refusal": null,
+      "id": "10339c10-b2f5-4ca2-9bac-88a71ac8dfea",
+      "createdAt": "2025-02-10T03:36:48.438Z"
+    },
+    {
+      "role": "user",
+      "content": "my name is kriti",
+      "id": "b3635963-a744-4752-b80f-81692f8d679e",
+      "createdAt": "2025-02-10T03:37:33.624Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, Kriti! How can I assist you today?",
+      "refusal": null,
+      "id": "914306f9-e4aa-411e-898f-4d1192b56da7",
+      "createdAt": "2025-02-10T03:37:34.412Z"
+    },
+    {
+      "role": "user",
+      "content": "what is my name?",
+      "id": "ba35651d-d026-42bc-a928-2a0a8d4925e0",
+      "createdAt": "2025-02-10T03:37:41.349Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Your name is Kriti. How can I help you today, Kriti?",
+      "refusal": null,
+      "id": "66b46e9d-97ac-4b46-89ef-7cb9f1395eb6",
+      "createdAt": "2025-02-10T03:37:42.034Z"
+    }
+  ]
 }
