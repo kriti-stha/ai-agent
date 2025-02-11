@@ -1,3 +1,69 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "role": "user",
+      "content": "whats the date and what timezone am i in",
+      "id": "d34ab26f-24e1-49a0-a21b-1bab0830f936",
+      "createdAt": "2025-02-11T00:42:11.965Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Today's date is February 11, 2025. However, I don't have access to your specific timezone. You can check your device settings or search online to find your current timezone. If you need help with anything else, feel free to ask!",
+      "refusal": null,
+      "id": "6f692edd-aac6-4e2e-8b1f-99c63f823252",
+      "createdAt": "2025-02-11T00:42:13.783Z"
+    },
+    {
+      "role": "user",
+      "content": "whats my name",
+      "id": "cfcb18bf-c93b-4f08-99ed-54e586010330",
+      "createdAt": "2025-02-11T00:43:10.853Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Your name is Kriti. How can I assist you today?",
+      "refusal": null,
+      "id": "0babb2a2-de28-413d-9c12-4924abda2ecc",
+      "createdAt": "2025-02-11T00:43:11.842Z"
+    },
+    {
+      "role": "user",
+      "content": "whats my name",
+      "id": "6560479d-ad13-4c4a-b527-e99bd4aca2e8",
+      "createdAt": "2025-02-11T00:43:22.977Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Your name is kritiooo. How can I help you today?",
+      "refusal": null,
+      "id": "72a4169e-2e80-4ea5-82b8-27aa37e724ab",
+      "createdAt": "2025-02-11T00:43:27.434Z"
+    },
+    {
+      "role": "user",
+      "content": "no my name is kritters from now on.",
+      "id": "c3188e2e-d1be-4efe-810e-93520872b7fa",
+      "createdAt": "2025-02-11T00:45:03.109Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Got it! I'll call you Kritters from now on. How can I assist you today?",
+      "refusal": null,
+      "id": "4dfd9e39-fd49-4983-add1-b65880e44ce9",
+      "createdAt": "2025-02-11T00:45:04.177Z"
+    },
+    {
+      "role": "user",
+      "content": "whats my name",
+      "id": "7addc443-9291-4010-a0f5-3520715b0936",
+      "createdAt": "2025-02-11T00:45:07.550Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Your name is Kritters. How can I help you today?",
+      "refusal": null,
+      "id": "50a9ca6b-52fc-47d9-aa86-81e7e97546bd",
+      "createdAt": "2025-02-11T00:45:08.581Z"
+    }
+  ]
 }
